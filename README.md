@@ -18,8 +18,10 @@ Bu fonksiyon aracın üstünde bulunan görevi siler.
 Bu classtan oluşturulan iki rotanın eklenmesini sağlar. Operator overloading yapmalısınız.
 Yapmanız gereken header dosyası, source dosyası ve test dosyasını ayrı ayrı oluşturmak.
 Örnek test dosyasının bir kısmı aşağıdaki gibidir.
+
 ![alt text](https://uniim1.shutterfly.com/render/00-RMNuRf_cvlSvCr7IsrJuykDnqygDeyuHrhkoGCpCYg4wVbn0VwzbHMbOcAZ1RxV-ldMTLfbtJ__wYVBQ_4iTow?cn=THISLIFE&res=small&ts=1666955547)
 Bu dosyanın çıktısı ise aşağıdaki gibir.
+
 ![alt text](https://uniim1.shutterfly.com/render/00-RMNuRf_cvlSvCr7IsrJuykDnqygDeyuHrhkoGCpCYg47cuMTMbxoFQClrTF_kJcvaAUrgnwgvQnZ_1RWb7NZPA?cn=THISLIFE&res=small&ts=1666955577)
 
 Bu noktaları arayüz üzerinden de bu şekilde verebilirdik ancak bu görevin gelişmiş versiyonu ile çok da ilginç rotalar oluşturabilirsiniz. 
